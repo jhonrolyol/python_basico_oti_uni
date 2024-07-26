@@ -1,6 +1,6 @@
 # Curso de Python Básico - OTI - UNI 
 
-![Python básico](https://pit-virtual.uni.edu.pe/pluginfile.php/26509/course/section/1103/BANERPIT%20%281%29.png)
+![Python básico](logo.png)
 
 La enseñanza de la programación en niveles educativos universitarios
 desarrolla en los alumnos capacidades fundamentales para sus estudios
