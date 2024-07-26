@@ -9,9 +9,9 @@ laboral/académico cada vez demanda más profesionales altamente
 capacitados en el ámbito de la programación.
 
 ## Información general 
-- *Modalidad*: virtual
-- *Duración*: 8 sesiones
-- *Horas*: 16 horas
+- *Modalidad virtual*
+- *Duración de 8 sesiones*
+- *16 horas*
 
 ## ¿Qué aprenderas en el curso?
 Al finalizar el curso, estarás preparado para utilizar python en la implementación 
@@ -23,34 +23,34 @@ Este curso está dirigido a alumnos de pregrado de todas las universidades.
 ## Temario del curso 
 
 ### Sesión 1.- USO DE GOOGLE DRIVE Y UNA INTRODUCCIÓN A LOS LENGUAJES DE PROGRAMACIÓN
-* Primeros pasos usando Google Drive
-* Desarrollo y evolución de los lenguajes de programación.
+- *1.- Primeros pasos usando Google Drive*
+- *2.- Desarrollo y evolución de los lenguajes de programación.*
 
 ### Sesión 2.- PRIMEROS PASOS USANDO PYTHON
-* Introducción al lenguaje de programación Python
-* Definición y operaciones con variables numéricas
+- *1.- Introducción al lenguaje de programación Python*
+- *2.- Definición y operaciones con variables numéricas*
 
 ### Sesión 3.- VARIABLES NO NUMÉRICAS EN PYTHON
-* Definición y operaciones con variables de tipo cadena de caracter
-* Definición y operaciones con variables lógicas
+- *1.- Definición y operaciones con variables de tipo cadena de caracter*
+- *2.- Definición y operaciones con variables lógicas*
 
 ### Sesión 4.- RUTINAS DE ENTRADA Y SALIDA EN PYTHON
-* La funcion input para pedirle datos al usuario
-* La funcion print para devolver informacion al usuario
+- *1.- La funcion input para pedirle datos al usuario*
+- *2.- La funcion print para devolver informacion al usuario*
 
 ### Sesión 5.- DOS ESTRUCTURAS BÁSICAS : DECISION Y REPETICION
-* Toma de decisiones en Python : La estructura IF
-* Realización de tareas repetitivas en Python : Estructuras FOR
+- *1.- Toma de decisiones en Python : La estructura IF*
+- *2.- Realización de tareas repetitivas en Python : Estructuras FOR*
 
 ### Sesión 6.- LA ESTRUCTURA DE REPETICION WHILE
-* While
+- *1.- While
 
 ### Sesión 7.- DATOS ESTRUCTURADOS EN PYTHON : LISTAS (I)
-* Definición del tipo de dato : lista
-* Operaciones básicas con listas
+- *1.- Definición del tipo de dato : lista*
+- *2.- Operaciones básicas con listas*
 
 ### Sesión 8.- DATOS ESTRUCTURADOS EN PYTHON : LISTAS (II)
-* Metodos de un objeto de tipo lista
+- *1.- Metodos de un objeto de tipo lista*
 
 ## Docente 
 *Abraham Zamudio Chauca* 
